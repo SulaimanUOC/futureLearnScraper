@@ -11,8 +11,8 @@ Se han aplicado técnicas de web scraping mediante el uso del framework Scrapy (
 
 ## Contenido del repositorio
 
-1. /dataset contiene el fichero .csv llamado futurelearn-courses.csv
-2. /sources contine el código del scraper.
+1. /dataset contiene futurelearn-courses.csv con los datos extraídos.
+2. /sources contiene el código del scraper.
 3. memoria.pdf es el documento de práctica con las respuestas de los apartados.
 
 ## DOI de zenodo del dataset generado:
